@@ -11,4 +11,4 @@ Experimenting with Python's timedelta for business time.
 
 (4) Find your anaconda directory, and find the actual venv folder, .. should be somewhere like /anaconda/envs/venv_name/
 
-(5) Install package `BusinessTimeDelta` by typing `/anaconda/envs/venv_name/bin/pip install businesstimedelta`
+(5) Install package *BusinessTimeDelta* by typing `/anaconda/envs/venv_name/bin/pip install businesstimedelta`
